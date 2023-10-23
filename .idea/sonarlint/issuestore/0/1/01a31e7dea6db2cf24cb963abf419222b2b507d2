@@ -1,0 +1,7 @@
+
+w
+java:S1104"UMake webdriver a static final constant or non-public and provide accessors if needed.(ÐÔï¢ýÿÿÿÿ8ˆÐè¿µ1
+Q
+java:S1444"/Make this "public static webdriver" field final(ÐÔï¢ýÿÿÿÿ8ŒÐè¿µ1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(±ž¸†8ôÐè¿µ1
